@@ -1,0 +1,8 @@
+{
+  "name": "Circular Minimap",
+  "author": "AnatolianWolfpack",
+  "version": "1.0.0",
+  "id": "5E4F2B8C9D1A3C7E",
+  "description": "Adds a circular minimap to the bottom-center of the screen in Arma Reforger. Shows terrain details (roads, mountains, etc.) similar to the in-game M-key map. Only visible when a player is spawned.",
+  "dependencies": []
+}
