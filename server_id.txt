@@ -1,3 +1,2 @@
 anatolianwolfpack:34430041
-deneme:1231231
-anatolianwolfpack_lobby: 109775244816040859
+anatolianwolfpack_lobby:109775244816040859
